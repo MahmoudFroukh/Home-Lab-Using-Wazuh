@@ -8,7 +8,7 @@ Analyze network traffic for anomalies and malicious activity.
 
 ## Tools Used
 
-- Host OS `Windows 11 or Kali Linux`
+- Host OS `Windows 11 or Ubuntu`
 - Hypervisor `VMware Workstation Pro 17`
 - Wazuh
 
